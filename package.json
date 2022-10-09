@@ -1,0 +1,18 @@
+{
+  "name": "qw1-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "lottovipเข้าระบบ✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"lottovipเข้าระบบ",
+"โปรโมชั่นเว็บหวย",
+"lottovip999",
+"MELOTTO 282",
+"lottovip"
+],
+  "repository": "https://github.com/setteebet/qw1-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
